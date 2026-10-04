@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/**
+!data/raw/**/
+!data/raw/**/.gitkeep
+data/interim/**
+!data/interim/**/
+!data/interim/**/.gitkeep
+output/*.log
+output/figures/
+output/tables/

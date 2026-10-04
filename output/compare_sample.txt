@@ -1,0 +1,42 @@
+
+ nyc published subway sample 
+rows 2654430 stations 1508 days 365 starts 35614292 
+classic_share 0.2966131 ebike_share 0.7033869 
+rain 0.1604149 rain1 0.1059504 snow 0.02238296 hot 0.05413177 freezing 0.1473412 
+snow_dates 29 hot_dates 56 
+mean_starts 13.41693 mean_temp 12.53419 mean_wind 10.52525 mean_pm 13.30093 
+hubs 377 outside_not_in_this_sample 
+
+ nyc all subway-adjacent 
+rows 3537760 stations 2000 days 365 starts 43389158 
+classic_share 0.2959879 ebike_share 0.7040121 
+rain 0.1606324 rain1 0.1057435 snow 0.02248598 hot 0.05426598 freezing 0.1475637 
+snow_dates 29 hot_dates 56 
+mean_starts 12.26458 mean_temp 12.53292 mean_wind 10.52937 mean_pm 13.30177 
+hubs 452 outside_not_in_this_sample 
+
+ london tube-adjacent 
+rows 1169770 stations 645 days 365 starts 7423195 
+classic_share 0.8191314 ebike_share 0.1808686 
+rain 0.1573591 rain1 0.08035939 snow 0.004600904 hot 0.01175359 freezing 0.01502689 
+snow_dates 9 hot_dates 15 
+mean_starts 6.345859 mean_temp 12.43909 mean_wind 10.89644 mean_pm 9.466107 
+hubs 142 outside_not_in_this_sample 
+
+ nyc all docks 
+rows 4010730 stations 2266 days 365 starts 45607231 
+classic_share 0.2961018 ebike_share 0.7038982 
+rain 0.1607972 rain1 0.1056965 snow 0.02253355 hot 0.05417817 freezing 0.1474599 
+snow_dates 29 hot_dates 56 
+mean_starts 11.3713 mean_temp 12.5321 mean_wind 10.53799 mean_pm 13.29948 
+hubs 452 outside_not_in_this_sample 
+
+ london all docks 
+rows 1445295 stations 796 days 365 starts 8862436 
+classic_share 0.8196883 ebike_share 0.1803117 
+rain 0.1566206 rain1 0.08003487 snow 0.004711841 hot 0.0116004 freezing 0.01521696 
+snow_dates 9 hot_dates 15 
+mean_starts 6.131922 mean_temp 12.431 mean_wind 10.88155 mean_pm 9.462511 
+hubs 142 outside_not_in_this_sample 
+
+london outside 151 nyc outside 266 
